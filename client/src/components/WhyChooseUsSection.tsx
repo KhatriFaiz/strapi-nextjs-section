@@ -95,9 +95,6 @@ const WhyChooseUs = ({ options }: WhyChooseUsProps) => {
           ))}
         </div>
       </div>
-
-      {/* Content for selected option */}
-      <div className="max-w-7xl mx-auto text-center mt-12"></div>
     </section>
   );
 };
